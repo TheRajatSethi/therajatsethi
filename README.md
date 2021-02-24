@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there 👋
+
+I help companies build solutions and materialize their vision using various technologies such as SAP, microservices, events, Python, Data Science and more specifically focusing on their Customer Relationship and Sales across various domains such as Utilities, Finance, Tech and more.
+
+I also work in the field of Data and Data Science to learn about customer adoption and to augment technology solutions.
+
+Check out my [personal website](https://sethirajat.com/).
+
+
 
 <!--
 **TheRajatSethi/therajatsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
